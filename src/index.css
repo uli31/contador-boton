@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: cornsilk;
+  background-color: rgb(169, 173, 169);
 }
 
 code {
@@ -15,10 +15,27 @@ code {
 }
 
 img{
-  width: 150px;
+  width: 180px;
+  
   
 }
+.Contenedor{
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+ 
+  margin: 10px 30px;
+}
+.hijo{
+  flex-grow: 1;
+  margin: 10px 0px;
+}
 
+.hijo img{
+ height: 160px;
+ 
+}
 .carrito{
   height: 30px;
  
@@ -36,4 +53,7 @@ img{
 .contenedor{
   margin:20px 30px;
  padding: 10px;
+}
+.contendor-principal{
+  align-items: center;
 }

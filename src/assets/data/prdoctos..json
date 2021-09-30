@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chupapansa",
+        "cantidad": 4,
+        "descripcion": " Ayuda a controlar el peso Ayuda a mejorar la digestión",
+         "url":"https://http2.mlstatic.com/D_NQ_NP_2X_689001-MLM47356520368_092021-F.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "piñalim",
+        "cantidad": 2,
+        "descripcion": "lorem",
+        "url":"https://http2.mlstatic.com/D_NQ_NP_2X_926746-MLM40358393450_012020-F.webp"
+
+    },
+    {
+        "id": 4,
+        "nombre": "valercaps",
+        "cantidad": 8,
+        "descripcion": "lorem",
+        "url":"https://cdn.shopify.com/s/files/1/2266/9771/products/83-18.png?v=1589042313"
+
+    },
+    {
+        "id": 5,
+        "nombre": "sukunai",
+        "cantidad": 9,
+        "descripcion": "lorem",
+        "url":"https://http2.mlstatic.com/D_NQ_NP_2X_689001-MLM47356520368_092021-F.webp"
+
+    }
+]

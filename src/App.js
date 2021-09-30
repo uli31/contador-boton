@@ -1,13 +1,21 @@
 import NavBar from "./components/NavBar"
+import React,{useState} from "react"
 import ItemListContainer from "./components/ItemListContainer";
+import './index.css';
 
 
 function App() {
+
+
+
+
+
+
   return (
     <div className="App">
       <NavBar/>
-          <ItemListContainer
-            mensaje="La lista se encuentra vacia"
+          <ItemListContainer className="contendor-principal"
+           
           />
     </div>
   );
