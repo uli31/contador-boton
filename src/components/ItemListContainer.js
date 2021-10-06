@@ -1,7 +1,8 @@
 import React,{useState,useEffect} from 'react';
 import '../index.css';
 import ItemCount from './ItemCount';
-import Prodcto from '../assets/data/prdoctos..json'
+import Prodcto from '../assets/data/prdoctos..json';
+
 
 const ItemListContainer=()=> {
     const [productos, setProductos] = useState([]);
